@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moovit", "Moovit.csproj", "{DC081B76-8C1D-455C-971D-0008C720FC3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC081B76-8C1D-455C-971D-0008C720FC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC081B76-8C1D-455C-971D-0008C720FC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC081B76-8C1D-455C-971D-0008C720FC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC081B76-8C1D-455C-971D-0008C720FC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
